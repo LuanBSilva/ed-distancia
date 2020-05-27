@@ -161,7 +161,16 @@ div#vidd p{
 }
 
 div#vidd a{
-    color: black;
+   background-image: url(./img/gartic.png);
+   text-indent: -9999px;
+   display: inline-block;
+   position: absolute;
+   width: 64px;
+   height: 64px;
+   margin-left: 9px;
+   margin-top: -12px;
+   background-repeat: no-repeat;
+   
 }
 
 div#aread{
@@ -170,7 +179,7 @@ div#aread{
  }
 /*--Fim da formatação do Gartic--*/
 
-/*--Início da formatação do google StopotS--*/
+/*--Início da formatação do StopotS--*/
 div#txtg{
     display: block;
     width: 480px;
@@ -208,14 +217,23 @@ div#vidg p{
 }
 
 div#vidg a{
-    color: cadetblue;
+   background-image: url(./img/stopots.png);
+   text-indent: -9999px;
+   display: inline-block;
+   position: absolute;
+   width: 64px;
+   height: 64px;
+   margin-left: 9px;
+   margin-top: -12px;
+   background-repeat: no-repeat;
+   
 }
 
 div#areag{
     background-color: #3d0099;
     box-shadow: 1px 1px 10px black;
  }
-/*--Fim da formatação do quizizz--*/
+/*--Fim da formatação do StopotS--*/
 
 /*--Início da formatação do Uno--*/
 div#txtz{
@@ -259,7 +277,16 @@ div#vidz p{
 }
 
 div#vidz a{
-    color: #737373;
+   background-image: url(./img/uno.png);
+   text-indent: -9999px;
+   display: inline-block;
+   position: absolute;
+   width: 64px;
+   height: 64px;
+   margin-left: 9px;
+   margin-top: -12px;
+   background-repeat: no-repeat;
+   
 }
 
 div#areaz{
@@ -267,7 +294,7 @@ div#areaz{
     box-shadow: 1px 1px 10px black;
     margin-bottom: -45px;
  }
-/*--Fim da formatação do google Uno--*/
+/*--Fim da formatação do Uno--*/
  
  /*Início da Formatação do Rodapé*/
  
