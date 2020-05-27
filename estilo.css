@@ -63,10 +63,10 @@ div#vidz a{
    text-indent: -9999px;
    display: inline-block;
    position: absolute;
-   width: 64px;
-   height: 64px;
-   margin-left: 9px;
-   margin-top: -12px;
+   width: 48px;
+   height: 48px;
+   margin-left: 11px;
+   margin-top: -7px;
    background-repeat: no-repeat;
    
 }
@@ -114,10 +114,10 @@ div#vidw a{
    text-indent: -9999px;
    display: inline-block;
    position: absolute;
-   width: 64px;
-   height: 64px;
-   margin-left: 9px;
-   margin-top: -12px;
+   width: 48px;
+   height: 48px;
+   margin-left: 11px;
+   margin-top: -7px;
    background-repeat: no-repeat;
    
 }
@@ -219,10 +219,10 @@ div#vidg a{
    text-indent: -9999px;
    display: inline-block;
    position: absolute;
-   width: 64px;
-   height: 64px;
-   margin-left: 9px;
-   margin-top: -12px;
+   width: 48px;
+   height: 48px;
+   margin-left: 11px;
+   margin-top: -7px;
    background-repeat: no-repeat;
    
 }
@@ -272,10 +272,10 @@ div#vidd a{
    text-indent: -9999px;
    display: inline-block;
    position: absolute;
-   width: 64px;
-   height: 64px;
+   width: 48px;
+   height: 48px;
    margin-left: 9px;
-   margin-top: -10px;
+   margin-top: -5px;
    background-repeat: no-repeat;
    
 }
