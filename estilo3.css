@@ -298,8 +298,8 @@ div#areaz{
  
  /*Início da Formatação do Rodapé*/
  
- section.social a[href*="https://www.facebook.com/Educa%C3%A7%C3%A3o-a-Dist%C3%A2ncia-103206844734213/?modal=admin_todo_tour"]	{
-    background-image:	url(./img/facebook.png);
+ section.social a[href*="https://www.youtube.com/channel/UCjG8VqUvzypAd-F1kUSZr0A?view_as=subscriber"]	{
+    background-image:	url(./img/youtube.png);
  }
  section.social a[href*="https://twitter.com/EducaoaDistnci1"]	{
     background-image:	url(./img/twitter.png);
