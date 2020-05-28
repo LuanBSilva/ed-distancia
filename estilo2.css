@@ -315,7 +315,7 @@ div#areaz{
  /*Início da Formatação do Rodapé*/
  
  section.social a[href*="https://www.youtube.com/channel/UCjG8VqUvzypAd-F1kUSZr0A?view_as=subscriber"] {
-    background-image:	url(/img/youtube.png);
+    background-image:	url(./img/youtube.png);
  }
  section.social a[href*="https://twitter.com/EducaoaDistnci1"]	{
     background-image:	url(./img/twitter.png);
